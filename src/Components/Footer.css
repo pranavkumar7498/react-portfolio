@@ -1,0 +1,14 @@
+.main-footer {
+  color: black;
+  background-color: rgb(214, 214, 218);
+  padding-top: 50px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  border: thin;
+  height: 100%;
+ 
+}
+ .list-unstyled-links{
+   display: inline-block;
+ }
